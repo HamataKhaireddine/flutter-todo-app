@@ -45,5 +45,5 @@ lib/
 │   └── add_task_dialog.dart
 
 
-📃 License
+## 📃 License
 MIT License © 2025 — Hamata Khaireddine
