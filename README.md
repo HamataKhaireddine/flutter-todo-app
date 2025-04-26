@@ -14,9 +14,18 @@ A simple and clean **To-Do App** built using **Flutter**. This app allows users 
 
 1. **Clone the repo:**
 
-```bash
 git clone https://github.com/HamataKhaireddine/to-do-app-flutter.git
 cd to-do-app-flutter
+
+2. **Install dependencies:**
+flutter pub get
+
+3. **Run the app:**
+
+flutter run
+
+
+
 
 🛠️ Tech Stack
 Flutter 🐦
