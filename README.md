@@ -18,9 +18,10 @@ git clone https://github.com/HamataKhaireddine/to-do-app-flutter.git
 cd to-do-app-flutter
 
 2. **Install dependencies:**
+
 flutter pub get
 
-3. **Run the app:**
+4. **Run the app:**
 
 flutter run
 
