@@ -27,12 +27,12 @@ flutter run
 
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Flutter 🐦
 
 Dart 🎯
 
-📁 Project Structure
+## 📁 Project Structure
 
 lib/
 ├── main.dart
